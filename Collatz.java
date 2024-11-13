@@ -33,12 +33,12 @@ public class Collatz {
 		}
 		System.out.print(1 + " ");
 		sum=sum+1;
-		System.err.println("(" + sum + ")");
+		System.out.println("(" + sum + ")");
 	}
 		
 	
 	System.out.println("Every one of the first " +  n +  " hailstone sequences reached 1.");
-	
+
 }
 }
 
